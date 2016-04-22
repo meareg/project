@@ -4,4 +4,4 @@ and final
 
 another line
 
-All rights reserverd. 2016 -- Meareg
+All rights reserverd. 2016 -- Meareg --
